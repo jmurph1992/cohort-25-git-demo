@@ -1,3 +1,5 @@
 My file for the bootcamp.
 
-New line test.
+New line test. 
+
+This git branching stuff is both new and confusing.
